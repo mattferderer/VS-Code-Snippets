@@ -1,0 +1,12 @@
+{
+	// Place your snippets for javascript here. Each snippet is defined under a snippet name and has a prefix, body and 
+	"iife": {
+		"prefix": "iife",
+		"body": [
+			"(function () {",
+			"\t$1",
+			"}());"
+		],
+		"description": "Create an Immediately-invoked function expression"
+	}
+}
